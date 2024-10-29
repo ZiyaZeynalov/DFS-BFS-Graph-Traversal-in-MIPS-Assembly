@@ -1,5 +1,4 @@
 # My Program: DFS & BFS
-# Ziya Zeynalov 20220935
 
     .data
 
